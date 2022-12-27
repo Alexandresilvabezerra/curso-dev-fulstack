@@ -1,0 +1,18 @@
+<!-- ESSA TAG  DOCTYPE É RESONSAVEL POR DEFINIR A VERSÃO DO HTML-->
+<!DOCTYPE html>
+<html>
+    <READ>
+        <!--
+            A TAG READ SERVE PARA AS CONFIGURACOES SEU DOCUMENTO HTML
+        -->
+        <TITLE>HELO WORLD</TITLE>
+    </READ>
+   <BODY>
+    <!-- 
+        A TAG BODY É RESPONSAVEL PELA AREA VISIVEL DA SUA PAGINA
+    -->
+    <h1>helo word</h1>
+   </BODY>
+   
+
+</html> 

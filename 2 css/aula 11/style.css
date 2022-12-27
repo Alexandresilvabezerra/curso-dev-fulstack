@@ -1,0 +1,56 @@
+body {
+    background: #7c6a6a;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(49, 42, 42) 
+
+}
+
+.container {
+    width: 1000px;
+}
+
+.PROFILE {
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+
+.foto-principal {
+    width: 200px;
+    border:  solid rgb(49, 42, 42);
+    border-radius: 50%;
+    margin-top: 30%;
+    box-shadow: 2px;
+    margin: 40px;
+
+}
+
+h1 {
+    margin-bottom: 0;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+
+}
+
+h2 {
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(232, 236, 240);
+    font-weight: 100;
+    letter-spacing: 1px;
+    
+}
+.social-links {
+    text-decoration: none;
+}
+
+.social-icons {
+    width: 20px;
+}
+
+.github {
+    margin: 0 15px 0 15px;
+}
+
+
